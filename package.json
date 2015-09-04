@@ -1,0 +1,19 @@
+{
+  "name": "immediate-invocation",
+  "version": "1.0.0",
+  "description": "Small module that ease the invocation of a function within a setImmediate call",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hernanhht/immediate-invocation.git"
+  },
+  "author": "Hernán Tierno",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hernanhht/immediate-invocation/issues"
+  },
+  "homepage": "https://github.com/hernanhht/immediate-invocation"
+}
