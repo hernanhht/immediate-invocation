@@ -1,6 +1,11 @@
 ## Immediate
 Small module that ease the invocation of a function within a setImmediate call. Following the best practice of always calling callbacks in an async fashion, this library will add some syntactic sugar (a little implementation of a [Cristian Douce](https://github.com/cristiandouce) idea).
 
+### Installation
+```
+npm i immediate-invocation
+```
+
 ### Classic invocation of a callback
 
 A typical node.js code looks like this:
